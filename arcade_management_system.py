@@ -163,4 +163,4 @@ elif ch == 3:
     player_id = input("Enter the player ID to play basketball: ")
     play_basketball(player_id)
 else:
-    print("Invalid choice.")
+    print("Invalid choice")
